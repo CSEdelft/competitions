@@ -1,2 +1,2 @@
 # competitions
-coding competitions we do (suggestion: weekly?)
+coding competitions we do (suggestion: monthly?)
