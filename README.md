@@ -23,5 +23,5 @@ Deadline: october the 27th, 2018
 
 | challenge | winner | 
 | --------- | ------ | 
-| [](#obfuscated-fizzbuzz/README.md) | None	|
+| [obfuscated fizzbuzz](#obfuscated-fizzbuzz/README.md) | None	|
 
