@@ -21,6 +21,6 @@ Deadline: october the 27th, 2018
 
 # previous challenges:
 
-| challenge | winner  	|
-|			|			|
+| challenge | winner |
+| [](#obfuscated-fizzbuzz/README.md) | None	|
 
