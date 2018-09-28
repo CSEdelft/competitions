@@ -12,12 +12,12 @@ after you're done, make a gist (on github) and message me the link (discord: jon
 
 ## Obfuscated fizzbuzz
 
-	create a program to genererate a sequence of numbers from 1 to 100. for every number divisible by 3 print fizz, for every number divisible by 5 print buzz, for every number divisible by both 3 and 5, print fizzbuzz. else just print the number. do this in the most obfuscated way possible.
+create a program to genererate a sequence of numbers from 1 to 100. for every number divisible by 3 print fizz, for every number divisible by 5 print buzz, for every number divisible by both 3 and 5, print fizzbuzz. else just print the number. do this in the most obfuscated way possible.
 
-	Deadline: october the 27th, 2018
+Deadline: october the 27th, 2018
 
 
-	[link](#obfuscated-fizzbuzz/README.md)
+[link](#obfuscated-fizzbuzz/README.md)
 
 # previous challenges:
 
