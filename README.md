@@ -10,6 +10,8 @@ after you're done, make a gist (on github) and message me the link (discord: jon
 
 **Important** add compilation instructions to the gist so we can check the submission
 
+multiple submissions are allowed
+
 # this month:
 
 ## Obfuscated fizzbuzz
