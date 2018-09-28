@@ -17,11 +17,11 @@ create a program to genererate a sequence of numbers from 1 to 100. for every nu
 Deadline: october the 27th, 2018
 
 
-[link](obfuscated-fizzbuzz/README.md)
+[link](obfuscated%20fizzbuzz/README.md)
 
 # previous challenges:
 
 | challenge | winner | 
 | --------- | ------ | 
-| [obfuscated fizzbuzz](obfuscated-fizzbuzz/README.md) | None	|
+| [obfuscated fizzbuzz](obfuscated%20fizzbuzz/README.md) | None	|
 
