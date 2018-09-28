@@ -4,6 +4,8 @@
 Every month, me (jonathan) will give *10 euros* to the creator of the best submission that conforms to the monthly challenge.
 me, together with <who wants?> will judge.
 
+Ideas for future challenges are welcome
+
 # how to submit:
 
 after you're done, make a gist (on github) and message me the link (discord: jonay2000#6848). the link will be added to the file of the current competiton.
