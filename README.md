@@ -22,6 +22,5 @@ Deadline: october the 27th, 2018
 # previous challenges:
 
 | challenge | winner  	|
--------------------------
 |			|			|
 
