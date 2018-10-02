@@ -29,9 +29,9 @@ Deadline: october the 10th, 2018
 
 2 in october because hacktoberfest :)
 
-october 10 - october 25: -----------------------------
-october 25 - november 10: -----------------------------
-novermber 10 - november 31: -----------------------------
+* october 10 - october 25: -----------------------------    
+* october 25 - november 10: -----------------------------    
+* novermber 10 - november 31: -----------------------------    
 
 # previous challenges:
 
