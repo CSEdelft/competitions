@@ -25,7 +25,7 @@ Deadline: october the 10th, 2018
 
 [link](obfuscated%20fizzbuzz/README.md)
 
-# planned challenges:
+# planned competitions:
 
 2 in october because hacktoberfest :)
 
