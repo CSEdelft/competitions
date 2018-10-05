@@ -1,7 +1,8 @@
 # competitions
 
 
-# [the next coding challenge](http://www.rkursem.com/poll/view.php?id=ff793905f05d335c0)
+# [the next coding challenge](http://www.rkursem.com/poll/view.php?id=ff793905f05d335c0)   
+[(current results)](http://www.rkursem.com/poll/view.php?cmd=answer&id=ff793905f05d335c0)
 
 Every month, me (jonathan) will give *10 euros* to the creator of the best submission that conforms to the monthly challenge.
 me, together with Julius will judge.
