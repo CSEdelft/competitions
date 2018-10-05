@@ -47,5 +47,6 @@ Deadline: october the 10th, 2018
 * sorting algorithms (suggestions welcome)
 * regex parser (probably too hard)
 * creating a toy (turing complete) programming language of choice
+* command line 'physics engine' that bounces a ball around
 
 suggestions are welcome
