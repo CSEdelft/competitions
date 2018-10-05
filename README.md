@@ -2,7 +2,7 @@
 
 
 Every month, me (jonathan) will give *10 euros* to the creator of the best submission that conforms to the monthly challenge.
-me, together with <who wants?> will judge.
+me, together with Julius will judge.
 
 Ideas for future challenges are welcome
 
