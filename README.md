@@ -8,7 +8,7 @@ Ideas for future challenges are welcome
 
 # how to submit:
 
-after you're done, make a gist (on github) and message me the link (discord: jonay2000#6848). the link will be added to the file of the current competiton.
+after you're done, make a gist (on github) and message me the link (discord: jonay2000#6848) or Julius (discord: J00LZ#9386). the link will be added to the file of the current competiton.
 
 **Important** add compilation instructions to the gist so we can check the submission
 
