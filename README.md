@@ -38,7 +38,7 @@ Implement, using the C programming language, a linked stack. this is a datascruc
 
 one will be (randomly) chosen to receive a custom TUdelft tshirt with the following print:
 
-![logo](resources/tshirtlogo.png)
+![logo](resources/tshirtlogo.png "logo")
 
 note: to compile a c program (.c file) you can use gcc -o out <filename>.c just like you would with assembly
 
