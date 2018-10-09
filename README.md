@@ -38,6 +38,8 @@ Implement, using the C programming language, a linked stack. this is a datastruc
 
 one will be (randomly) chosen to receive a custom TUdelft tshirt with the following print:
 
+*PLEASE POST ANONYMOUSLY TO ME OR JULIUS*
+
 ![logo](resources/tshirtlogo.png "logo")
 
 note: to compile a c program (.c file) you can use gcc -o out <filename>.c just like you would with assembly
