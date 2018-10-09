@@ -1,7 +1,7 @@
 # competitions
 
 
-Every month, me (jonathan) will give *10 euros* to the creator of the best submission that conforms to the monthly challenge.
+Every month, me (jonathan) will give *10 euros* __(note, this month you can win a tshirt)__ to the creator of the best submission that conforms to the monthly challenge.
 me, together with Julius will judge.
 
 Ideas for future challenges are welcome
@@ -42,6 +42,8 @@ one will be (randomly) chosen to receive a custom TUdelft tshirt with the follow
 
 note: to compile a c program (.c file) you can use gcc -o out <filename>.c just like you would with assembly
 
+[link](linkedstack/README.md)
+
 # planned competitions:
 
 2 in october because hacktoberfest :)
@@ -55,6 +57,7 @@ note: to compile a c program (.c file) you can use gcc -o out <filename>.c just 
 | challenge | winner | 
 | --------- | ------ | 
 | [obfuscated fizzbuzz](obfuscated%20fizzbuzz/README.md) | None	|
+| [linked stack](linkedstack/README.md) | None |
 
 
 
