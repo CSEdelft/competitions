@@ -50,5 +50,6 @@ Deadline: october the 10th, 2018
 * command line 'physics engine' that bounces a ball around
 * commandline pong AI vs AI
 * game jam with a twist (e.g. platformer with one input, shooter without shooting, etc)
+* code golf (look it up)
 
 suggestions are welcome
