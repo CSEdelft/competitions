@@ -32,7 +32,7 @@ Implement, using the C programming language, a linked stack. this is a datascruc
 
 * implemented using links
 * links are structs
-* pushing and popping are supported
+* pushing and popping operations are supported
 * dynamically allocated with malloc and free
 * no memory leaks
 
