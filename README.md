@@ -49,5 +49,6 @@ Deadline: october the 10th, 2018
 * creating a toy (turing complete) programming language of choice
 * command line 'physics engine' that bounces a ball around
 * commandline pong AI vs AI
+* game jam with a twist (e.g. platformer with one input, shooter without shooting, etc)
 
 suggestions are welcome
