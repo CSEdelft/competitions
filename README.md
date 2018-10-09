@@ -26,9 +26,9 @@ Deadline: october the 10th, 2018
 [link](obfuscated%20fizzbuzz/README.md)
 
 ## Linked Stack
-Lets learn c! 
+Let's learn c! 
 
-Implement, using the C programming language, a linked stack. this is a datascructure that performs the same operations as any stack but its implemented using a linked list. this means every `link` consists of a value (integer) and a pointer (next link). pushing to the stack should make a new link pointing to the previous last link, and popping from the stack should destroy the last created link and return it's (integer) value. (Watch out for memory leaks!) From all the submissions conforming to the following items:
+Implement, using the C programming language, a linked stack. this is a datastructure that performs the same operations as any stack but its implemented using a linked list. this means every `link` consists of a value (integer) and a pointer (next link). pushing to the stack should make a new link pointing to the previous last link, and popping from the stack should destroy the last created link and return it's (integer) value. (Watch out for memory leaks!) From all the submissions conforming to the following items:
 
 * implemented using links
 * links are structs
