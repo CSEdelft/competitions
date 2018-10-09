@@ -44,6 +44,8 @@ note: to compile a c program (.c file) you can use gcc -o out <filename>.c just 
 
 [link](linkedstack/README.md)
 
+Deadline: october the 25th, 2018
+
 # planned competitions:
 
 2 in october because hacktoberfest :)
