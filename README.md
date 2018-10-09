@@ -51,5 +51,6 @@ Deadline: october the 10th, 2018
 * commandline pong AI vs AI
 * game jam with a twist (e.g. platformer with one input, shooter without shooting, etc)
 * code golf (look it up)
+* arithmetic expression parser in c
 
 suggestions are welcome
