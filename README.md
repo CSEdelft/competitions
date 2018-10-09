@@ -25,11 +25,28 @@ Deadline: october the 10th, 2018
 
 [link](obfuscated%20fizzbuzz/README.md)
 
+## Linked Stack
+Lets learn c! 
+
+Implement, using the C programming language, a linked stack. this is a datascructure that performs the same operations as any stack but its implemented using a linked list. this means every `link` consists of a value (integer) and a pointer (next link). pushing to the stack should make a new link pointing to the previous last link, and popping from the stack should destroy the last created link and return it's (integer) value. (Watch out for memory leaks!) From all the submissions conforming to the following items:
+
+* implemented using links
+* links are structs
+* pushing and popping are supported
+* dynamically allocated with malloc and free
+* no memory leaks
+
+one will be (randomly) chosen to receive a custom TUdelft tshirt with the following print:
+
+![logo](resources/tshirtlogo.png)
+
+note: to compile a c program (.c file) you can use gcc -o out <filename>.c just like you would with assembly
+
 # planned competitions:
 
 2 in october because hacktoberfest :)
 
-* october 10 - october 25: -----------------------------    
+* october 10 - october 25: Linked Stack    
 * october 25 - november 10: -----------------------------    
 * novermber 10 - november 31: -----------------------------    
 
