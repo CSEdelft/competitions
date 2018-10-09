@@ -38,7 +38,7 @@ Implement, using the C programming language, a linked stack. this is a datastruc
 
 one will be (randomly) chosen to receive a custom TUdelft tshirt with the following print:
 
-*PLEASE POST PRIVATELY TO ME OR JULIUS*
+*PLEASE POST PRIVATELY TO JONATHAN OR JULIUS*
 
 ![logo](resources/tshirtlogo.png "logo")
 
