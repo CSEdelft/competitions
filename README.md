@@ -36,11 +36,11 @@ Implement, using the C programming language, a linked stack. this is a datastruc
 * dynamically allocated with malloc and free
 * no memory leaks
 
-one will be (randomly) chosen to receive a custom TUdelft tshirt with the following print:
+One will be (randomly) chosen to receive a custom TUdelft t-shirt.
 
 *PLEASE POST PRIVATELY TO JONATHAN OR JULIUS*
 
-![logo](resources/tshirtlogo.png "logo")
+![logo](resources/tud_long_shirt.png "logo")
 
 note: to compile a c program (.c file) you can use gcc -o out <filename>.c just like you would with assembly
 
