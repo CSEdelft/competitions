@@ -9,3 +9,4 @@
 * [Julius (kotlin)](https://gist.github.com/J00LZZ/bf3c177c191ec25d41350bac54a5d214)
 * [Georgi (javascript)](https://gist.github.com/Gogsi/833343c8fc1c4f958d7121a85088415b)
 * [Posydon (brainfuck)](https://gist.github.com/paulonchifir/49c6313273ccd58cbac68ef17061ecb0)
+* [Oledelay (java)](https://gist.github.com/OLedelay/4f81a2f489eb862f2c80fd99ca0ee549)
