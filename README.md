@@ -16,15 +16,6 @@ multiple submissions are allowed
 
 # this month:
 
-## Obfuscated fizzbuzz
-
-create a program to genererate a sequence of numbers from 1 to 100. for every number divisible by 3 print fizz, for every number divisible by 5 print buzz, for every number divisible by both 3 and 5, print fizzbuzz. else just print the number. do this in the most obfuscated way possible.
-
-Deadline: october the 10th, 2018
-(yes this one is a bit shorter than a month, this one shouldnt be too difficult)
-
-[link](obfuscated%20fizzbuzz/README.md)
-
 ## Linked Stack
 Let's learn c! 
 
