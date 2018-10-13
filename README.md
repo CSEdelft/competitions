@@ -51,7 +51,7 @@ Deadline: october the 25th, 2018
 
 | challenge | winner | 
 | --------- | ------ | 
-| [obfuscated fizzbuzz](obfuscated%20fizzbuzz/README.md) | None	|
+| [obfuscated fizzbuzz](obfuscated%20fizzbuzz/README.md) | Victor	|
 | [linked stack](linkedstack/README.md) | None |
 
 
